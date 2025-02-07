@@ -1,0 +1,1 @@
+sp["stream_coba.product_all"].stats()
